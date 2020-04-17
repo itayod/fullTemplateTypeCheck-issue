@@ -11,18 +11,17 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "~9.0.0-next.8",
-    "@angular/common": "~9.0.0-next.8",
-    "@angular/compiler": "~9.0.0-next.8",
-    "@angular/core": "~9.0.0-next.8",
-    "@angular/forms": "~9.0.0-next.8",
-    "@angular/platform-browser": "~9.0.0-next.8",
-    "@angular/platform-browser-dynamic": "~9.0.0-next.8",
-    "@angular/router": "~9.0.0-next.8",
-    "@ngneat/transloco": "2.0.0-rc.3",
-    "@ngneat/transloco-locale": "1.0.0",
+    "@angular/animations": "9.0.0",
+    "@angular/common": "9.0.0",
+    "@angular/compiler": "9.0.0",
+    "@angular/core": "9.0.0",
+    "@angular/forms": "9.0.0",
+    "@angular/platform-browser": "9.0.0",
+    "@angular/platform-browser-dynamic": "9.0.0",
+    "@angular/router": "9.0.0",
+    "@ngneat/transloco": "2.15.0",
     "@ngneat/transloco-messageformat": "^1.1.0",
-    "@ngneat/transloco-persist-lang": "1.0.1",
+    "@ngneat/transloco-persist-lang": "1.0.2",
     "@ngneat/transloco-persist-translations": "1.0.0",
     "@ngneat/transloco-preload-langs": "1.0.1",
     "@ngneat/transloco-remove-comments": "1.0.0",
@@ -32,10 +31,10 @@
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.900.0-next.6",
-    "@angular/cli": "~9.0.0-next.6",
-    "@angular/compiler-cli": "~9.0.0-next.8",
-    "@angular/language-service": "~9.0.0-next.8",
+    "@angular-devkit/build-angular": "~0.901.1",
+    "@angular/cli": "~9.1.1",
+    "@angular/compiler-cli": "9.0.0",
+    "@angular/language-service": "~9.1.2",
     "@types/jasmine": "~3.3.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
@@ -51,6 +50,6 @@
     "protractor": "~5.4.0",
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
-    "typescript": "~3.5.3"
+    "typescript": "3.7.5"
   }
 }
